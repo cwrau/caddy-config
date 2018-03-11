@@ -1,0 +1,8 @@
+@name@.cwrcoding.com {
+    proxy / localhost:@port@ {
+        transparent
+        websocket
+    }
+
+    import /caddy/default.conf
+}

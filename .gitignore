@@ -1,0 +1,4 @@
+.env
+.caddy
+caddy/conf.d/generated.d/*
+caddy/conf.d/_.d/rick.*

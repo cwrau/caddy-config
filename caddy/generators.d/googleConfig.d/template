@@ -1,0 +1,4 @@
+@name@.cwrcoding.com {
+    redir / https://@name@.google.com/a/cwrcoding.com 302
+    import /caddy/default.conf
+}
